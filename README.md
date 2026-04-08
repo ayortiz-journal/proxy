@@ -224,7 +224,7 @@ PRIVATE_KEY=0x... CONTRACT=0x... npx tsx examples/create-task.ts
 
 | Network | Address | Explorer |
 |---|---|---|
-| Base Sepolia | `0x...` | [View on BaseScan](https://sepolia.basescan.org) |
+| Base Sepolia | `0x76D4469909AD556C5bA2eACbc353387756835d47` | [View on BaseScan](https://sepolia.basescan.org/address/0x76D4469909AD556C5bA2eACbc353387756835d47) |
 | Base Mainnet | Coming soon | — |
 
 ## Roadmap

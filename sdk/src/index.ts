@@ -34,7 +34,7 @@ const ADDRESSES: Record<string, { proxy: string; usdc: string; rpc: string }> = 
     rpc: 'https://mainnet.base.org',
   },
   'base-sepolia': {
-    proxy: '0x0000000000000000000000000000000000000000', // TODO: deploy
+    proxy: '0x76D4469909AD556C5bA2eACbc353387756835d47',
     usdc: '0x036CbD53842c5426634e7929541eC2318f3dCF7e',
     rpc: 'https://sepolia.base.org',
   },
